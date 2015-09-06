@@ -6,4 +6,4 @@ All code submissions should be made in a subdirectory under the top-level `code-
   
 Each submission should have information including: author, language, purpose, interesting facts; anything that could be put in a short description on the page in the book.
 
-Theme Submissions should also be submitted with a PR. Submissions should be a README file in the `theme-submissions` directory, with a link to the theme/font, and pictures with example code.
+Theme Submissions should also be submitted with a PR. Submissions should be their own directory (including TTF files for fonts), in the `theme-submissions` directory. The directory should include a README with a link to the theme/font, and pictures with example code.
